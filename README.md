@@ -1,4 +1,4 @@
-# A Classification Decision Tree for Lebron James's Shots 
+# A Classification Tree for Lebron James's Shots 
    
    
 ### Authors 
