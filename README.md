@@ -33,9 +33,9 @@
 1. Clone this repo.
 2. Run these commands:
 
-	`Rscript src/01_loading_wrangling.R "lebron james"	
+`Rscript src/01_loading_wrangling.R "lebron james"`	
 	
-	`data/shot_logs_raw.csv data/tidy_data_lebron_james.csv`
+`data/shot_logs_raw.csv data/tidy_data_lebron_james.csv`
 	
 `python src/02_EDA.py data/tidy_data_lebron_james.csv results/figs/EDA "lebron james"`
 
